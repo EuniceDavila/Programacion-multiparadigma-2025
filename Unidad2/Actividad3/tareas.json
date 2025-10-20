@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Actividad1",
+        "descripcion": "Tarea de IOS",
+        "completada": false,
+        "tipo": "Normal"
+    },
+    {
+        "titulo": "Actividad4",
+        "descripcion": "Tarea de IOS",
+        "completada": true,
+        "tipo": "Urgente"
+    }
+]
