@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Eunice",
+    "id_estudiante": "21100187",
+    "calificaciones": {
+      "POO": [
+        90.0
+      ],
+      "Estructuras": [
+        90.0
+      ]
+    }
+  },
+  {
+    "nombre": "Citlali",
+    "id_estudiante": "21100248",
+    "calificaciones": {}
+  }
+]
